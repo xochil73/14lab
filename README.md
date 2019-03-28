@@ -6,8 +6,8 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [repo](https://github.com/xochil73/14lab/blob/master/README.md)
+* [travis]([![Build Status](https://travis-ci.com/xochil73/14lab.svg?branch=master)](https://travis-ci.com/xochil73/14lab))
 
 
 
